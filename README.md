@@ -1,4 +1,6 @@
 # customer-segmentation
+Customer Segmentation using RFM (Recency, Frequency, Monetary) analysis and Clustering is a powerful approach in marketing analytics to understand customer behavior and target specific groups effectively. 
+
 import pandas as pd
 import numpy as np
 from datetime import datetime
